@@ -1,0 +1,2 @@
+kmp_pattern = ["a", "b", "c", "a", "b", "c", "d"]
+skip_value =  [0,    0,   1,   2,   2,   3,   3 ]
